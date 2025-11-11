@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi there, I'm Mesfin!
 
-<!--
-**mesfinmaru/mesfinmaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer who’s learning how to build cool things with code.  
+I’m currently exploring **Web Development**, **C#**, and more.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m Learning
+- HTML, CSS, and JavaScript basics  
+- C# Programming
+- Creating small web projects and sharing them here 
+
+---
+
+### Tools I Use
+- VS Code  
+- Git & GitHub  
+- Visual Studio
+
+---
+
+### How to Reach Me
+- 📧 Email: [mesfinmaru121@gmail.com](mailto:mesfinmaru121@gmail.com)  
+- 💬 Telegram: [t.me/mesfinmaru](https://t.me/mesfinmaru) 
+
+
+⭐ *Thanks for visiting my profile!*  
+Feel free to check out my repositories and follow my progress.
