@@ -20,8 +20,8 @@ I’m currently exploring **Web Development**, **C#**, and more.
 ---
 
 ### How to Reach Me
-- 📧 Email: [mesfinmaru121@gmail.com](mailto:mesfinmaru121@gmail.com)  
-- 💬 Telegram: [t.me/mesfinmaru](https://t.me/mesfinmaru) 
+- Email: [mesfinmaru121@gmail.com](mailto:mesfinmaru121@gmail.com)  
+- Telegram: [t.me/mesfinmaru](https://t.me/mesfinmaru) 
 
 
 ⭐ *Thanks for visiting my profile!*  
