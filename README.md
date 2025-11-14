@@ -1,4 +1,5 @@
 👋 Hi there, I'm Mesfin!
+![Profile views](https://img.shields.io/badge/Profile%20views-129-blue)
 
 I'm a beginner developer who’s learning how to build cool things with code.  
 I’m currently exploring **Web Development**, **C#**, and more.
