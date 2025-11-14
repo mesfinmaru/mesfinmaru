@@ -24,8 +24,8 @@ I’m currently exploring **Web Development**, **C#**, and more.
 ---
 
 ### Contact me on
-- [![Telegram](https://img.shields.io/badge/Telegram-join%20chat-blue?style=flat-square)](https://t.me/mesfinmaru)
-- [![Email](https://img.shields.io/badge/Email-contact%20me-blue?style=flat-square)](mailto:mesfinmaru121@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-join%20chat-blue?style=flat-square)](https://t.me/mesfinmaru)
+[![Email](https://img.shields.io/badge/Email-contact%20me-blue?style=flat-square)](mailto:mesfinmaru121@gmail.com)
 
 ⭐ *Thanks for visiting my profile!*  
 Feel free to check out my repositories and follow my progress.
