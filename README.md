@@ -1,7 +1,7 @@
 👋 Hi there, I'm Mesfin!
 
 ![Profile views](https://img.shields.io/badge/Profile%20views-129-blue)
-![GitHub Followers](https://img.shields.io/badge/Followers-45-yellow)
+![GitHub Followers](https://img.shields.io/badge/Followers-2-yellow)
 ![Languages](https://img.shields.io/badge/Language-HTML-yellowgreen)
 
 I'm a beginner developer who’s learning how to build cool things with code.  
