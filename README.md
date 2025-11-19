@@ -10,9 +10,10 @@ I’m currently exploring **Web Development**, **C#**, and more.
 ---
 
 ### What I’m Learning
-- HTML, CSS, and JavaScript basics  
+- HTML, CSS, and JavaScript basics
+- Creating small web projects and sharing them here  
 - C# Programming
-- Creating small web projects and sharing them here 
+- Also we'll do some project by using C#
 
 ---
 
