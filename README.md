@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mesfin Maru!
+# Hi there, I'm Mesfin Maru!
 
 ![Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen)
 
@@ -6,7 +6,7 @@ I'm a Full-Stack Software Developer and Information Systems student passionate a
 
 ---
 
-### 💻 What I Do & What I'm Learning
+### What I Do & What I'm Learning
 
 *   **Full-Stack Web Development:** Crafting responsive front-ends and secure back-ends using HTML, CSS, JavaScript, PHP, and modern frameworks.
 *   **Desktop Applications:** Building robust systems with C# (Windows Forms & ASP.NET Core API) and Java.
@@ -14,7 +14,7 @@ I'm a Full-Stack Software Developer and Information Systems student passionate a
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 *   **Languages:** PHP, C#, Java, C++, JavaScript, HTML5, CSS3
 *   **Frameworks & Platforms:** ASP.NET Core
@@ -23,7 +23,7 @@ I'm a Full-Stack Software Developer and Information Systems student passionate a
 
 ---
 
-### 🚀 Highlighted Project Areas
+### Highlighted Project Areas
 
 *   **Car Rental Management System:** A full-stack solution built with a C# Windows Forms UI and an ASP.NET Core API.
 *   **Enterprise Workflows:** Architecting system infrastructure and manufacturing workflows for industrial ERP implementations.
@@ -31,7 +31,7 @@ I'm a Full-Stack Software Developer and Information Systems student passionate a
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=flat-square&logo=telegram)](https://t.me/mesfinmaru)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:mesfinmaru121@gmail.com)
