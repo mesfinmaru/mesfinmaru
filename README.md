@@ -1,5 +1,3 @@
-<!-- Replace every YOUR_GITHUB_USERNAME below with your real GitHub username -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mesfin%20Maru&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Data%20Engineering%20%7C%20Cybersecurity&descAlignY=60&descSize=20" width="100%" alt="header"/>
@@ -10,10 +8,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mesfinmaru&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/mesfinmaru?style=for-the-badge&logo=github&color=181717)
-![Stars](https://img.shields.io/github/stars/mesfinmaru?style=for-the-badge&logo=github&color=yellow)
-![Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/github/followers/mesfinmaru?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Followers" />
+<img src="https://img.shields.io/github/stars/mesfinmaru?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Stars" />
 
 </div>
 
@@ -34,27 +30,40 @@ I'm an **Information Systems student at Debre Berhan University** who builds sca
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,cs,php,java,cpp,postgres&theme=dark" alt="languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 ### Backend & Web
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,dotnet&theme=dark" alt="backend and web" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
 </p>
 
 ### Data & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,docker&theme=dark" alt="data and infrastructure" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ### Tools & OS
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode&theme=dark" alt="tools" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Ventoy-1E88E5?style=for-the-badge&logo=usb&logoColor=white" alt="Ventoy" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -74,7 +83,9 @@ I'm an **Information Systems student at Debre Berhan University** who builds sca
 
 ### 📊 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mesfinmaru&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+<div align="center">
+  <img src="https://ghchart.rshah.org/2E9EF7/mesfinmaru" alt="Contribution chart" width="100%" />
+</div>
 
 ---
 
